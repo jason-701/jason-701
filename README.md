@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={jason-701}" alt="LeetCode Badges"/>
 
 <!--
 **jason-701/jason-701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
