@@ -1,3 +1,6 @@
+# Welcome to my page!
+### Been grinding a bit of LeetCode lately and here's my stats
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=jason-701&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=jason-701&theme=dark" alt="LeetCode Badges"/>
 
