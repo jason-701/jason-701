@@ -5,7 +5,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jason-701?theme=dark&font=ABeeZee)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason-701)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason-701&exclude_repo=SC2104-Sensors-Interfacing-Digital-Control-)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jason-701/jason-701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
