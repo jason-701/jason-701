@@ -1,8 +1,9 @@
 # Welcome to my page!
 ### Some stats
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=jason-701&theme=dark" alt="LeetCode Badges"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason-701&exclude_repo=SC2104-Sensors-Interfacing-Digital-Control-)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=jason-701&theme=dark" alt="LeetCode Badges" width="35%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jason-701&exclude_repo=SC2104-Sensors-Interfacing-Digital-Control-" alt="Top Languages" width="35%"/>
+</div>
 <!--
 **jason-701/jason-701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
