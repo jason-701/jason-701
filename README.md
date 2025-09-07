@@ -1,6 +1,6 @@
 # Hi I'm Jason and welcome to my page!
 
-Check out *[my website!](https://jason-701.github.io/)*
+Check out *<a href="https://jason-701.github.io/" target="_blank">my website!</a>*
 
 ### Some stats
 <div>
