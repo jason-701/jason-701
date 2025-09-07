@@ -1,8 +1,11 @@
-# Hi I'm Jason and welcome to my page!
+### Hi I'm Jason and welcome to my page!
+
+I'm a recent graduate from Nanyang Technological University with a major in Computer Engineering.
+
+My experience lies in the fields of AI, machine learning, and embedded systems.
 
 Check out *<a href="https://jason-701.github.io/" target="_blank">my website!</a>*
 
-### Some stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jason-701&exclude_repo=SC2104-Sensors-Interfacing-Digital-Control-,FYP" alt="Top Languages" height="300"/>
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=jason-701&theme=dark" alt="LeetCode Badges" height="300"/>
